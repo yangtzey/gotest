@@ -30,3 +30,6 @@ length=0 -fno-common"
 
 CXX="clang++"
 CGO_ENABLED="1"
+
+
+my adddddddddddd
